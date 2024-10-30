@@ -4,6 +4,4 @@
 
 ##### Join JsonAsAsset's discord server: https://discord.gg/h9s6qpBnUT
 
----
-
 <sub>🤫 Psst! You can skip and download JsonAsAsset [here](https://github.com/JsonAsAsset/JsonAsAsset/releases).</sub>
