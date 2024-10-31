@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hi there 👋
 
 [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) is a Unreal Engine plugin to allow conversion between JSON to Unreal Engine, obtained from [FModel](https://fmodel.app).
 
