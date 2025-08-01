@@ -5,7 +5,6 @@
 Here's some useful links to guide you:
 - [Unreal Engine Plugin](https://github.com/JsonAsAsset/JsonAsAsset)
     - [Releases](https://github.com/JsonAsAsset/JsonAsAsset/releases)
-- [Local Fetch](https://github.com/JsonAsAsset/LocalFetch)
 - [Discord Server](https://discord.com/invite/xXEw4jc2UT)
 
 -------------
