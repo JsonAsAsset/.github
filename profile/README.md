@@ -9,4 +9,4 @@ Here's some useful links to guide you:
 - [Discord Server](https://discord.com/invite/xXEw4jc2UT)
 
 -------------
-<sub>🤫 Psst! You can skip and download JsonAsAsset [here](https://github.com/JsonAsAsset/Reflection/releases).</sub>
+<sub>🤫 Psst! You can skip and download Reflection [here](https://github.com/JsonAsAsset/Reflection/releases).</sub>
