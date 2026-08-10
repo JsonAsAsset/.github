@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Reflection](https://github.com/JsonAsAsset/Reflection) is a user-friendly Unreal Engine plugin designed to import assets from packaged games through JSON files.
+[Reflection](https://github.com/JsonAsAsset/Reflection) is a Unreal Engine plugin designed to import assets from packaged games through JSON files.
 
 Here's some useful links to guide you:
 - [Plugin](https://github.com/JsonAsAsset/Reflection)
