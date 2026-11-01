@@ -4,7 +4,7 @@
 
 Here's some useful links to guide you:
 - [Plugin](https://github.com/JsonAsAsset/Reflection)
-    - [App](https://github.com/JsonAsAsset/Core)
+    - [App](https://github.com/JsonAsAsset/Mirror)
     - [Releases](https://github.com/JsonAsAsset/Reflection/releases)
 - [Discord Server](https://discord.com/invite/xXEw4jc2UT)
 
